@@ -1,7 +1,7 @@
 ### Hola, I'm Daniel Alisi 👋
 
 
-- 🌱 I’m currently learning rust programming language
+- 🌱 I’m currently learning rust and devOps
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with solving some algo challenges if you're up to the task.
 - 💬 Ask me about backend engineering, blockchain or teach stuffs.
