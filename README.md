@@ -6,4 +6,4 @@
 - 💬 Ask me about backend engineering, blockchain or teach stuffs.
 - 📫 How to reach me: [@alisidaniel](https://twitter.com/alisidaniel)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: listening to music
+- ⚡ Fun fact: listening to music, games
