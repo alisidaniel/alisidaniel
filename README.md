@@ -1,4 +1,4 @@
-### Hola, I'm Daniel Alisi 👋
+### Hi, I'm Daniel Alisi 👋
 
 
 - 🌱 I’m currently learning Rust, Python, Big data, and Scaling
